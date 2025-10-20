@@ -61,19 +61,9 @@ Kubernetes é um sistema de gerenciamento de contêineres de código aberto que 
 |       42 | 📖  Controle de Acesso Baseado em Funções no Kubernete... | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/kubernetes-role-based-access-control-on-kubernetes-9203'>Iniciar Lab</a>         |
 |       43 | 📖  Kubernetes: Exibição de Uso de Recursos               | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/kubernetes-kubernetes-display-resource-usage-11358'>Iniciar Lab</a>              |
 
-## Ambiente
+## Sobre LabEx
 
-LabEx é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos.
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- Uma abordagem rigorosa de "Aprender Fazendo" com laboratórios práticos exclusivos e sem vídeos.
-- Ambientes online interativos no navegador, com verificações automatizadas passo a passo.
-- Uma organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades.
-- Um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios.
-- O assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
-
-Saiba mais sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+LabEx é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos. Com uma abordagem rigorosa de 'Aprender Fazendo', ambientes online interativos no navegador com verificações automatizadas passo a passo, organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades, e um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios, LabEx oferece educação prática integral. A plataforma inclui o assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
 
 ## Mais
 
